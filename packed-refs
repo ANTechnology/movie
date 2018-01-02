@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled 
+a2bc64e36d34cc3b1292d436b40c8c55c6fb3939 refs/remotes/origin/ReskinSocialApp
+4eb91955845c96763bd68bda429ca395a6c3e8ff refs/remotes/origin/develop
+6837588681a65e10fe5726efdd17121a3ca7eb59 refs/remotes/origin/integrate_wordpress_plugin
+52daf73614da5960b120e23571b54931ce38491b refs/remotes/origin/master
+31ebae944d9ecb4716283fe6060ba85fd03f69b1 refs/remotes/origin/styletab
+3edd641c7070eca7deed2c6548cdc3e1cf60c779 refs/remotes/origin/yovideo-wp
